@@ -1,0 +1,8 @@
+cd 
+git clone https://github.com/rishabh-kausish/hello-git.git(url of the repository)
+git add -A
+git commit -m "msg"
+git push -u origin master
+git status
+git config --global user.name ""
+git config --global user.email ""
